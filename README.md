@@ -47,6 +47,9 @@ Sanchis Albert, Sara Maria
 
 Serralta Bernabeu, Marta
 
-## Pràctiques
-
+## Pràctiques classe
 1. LlocWeb.
+
+## Pràctiques autònomes
+1. [FreeCodeCamp](https://www.freecodecamp.org/)
+
