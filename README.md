@@ -63,6 +63,15 @@ Serralta Bernabeu, Marta
 
 [Visual Code Studio](https://code.visualstudio.com/)
 * Live Server
-* 
+* Auto Rename Tag
+* Prettier - Code formatter
+* Intelissense for CSS class names in HTML
+* CSS Peek
+* CSS Grid Snippets
+* CSS Flexbox Cheatsheet
+* Lorem ipsum
+* Bracket Pair Colorizer
+* Indent-rainbow
+* Debugger for Chrome
 
 
