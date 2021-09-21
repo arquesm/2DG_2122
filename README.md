@@ -54,3 +54,13 @@ Serralta Bernabeu, Marta
 [FreeCodeCamp](https://www.freecodecamp.org/)
 
 ## Projecte
+
+### Ferramentes
+
+[Github - markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+[Visual Code Studio](https://code.visualstudio.com/)
+* Live Server
+* 
+
+
