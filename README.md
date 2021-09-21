@@ -51,5 +51,5 @@ Serralta Bernabeu, Marta
 1. LlocWeb.
 
 ## Pràctiques autònomes
-1. [FreeCodeCamp](https://www.freecodecamp.org/)
+[FreeCodeCamp](https://www.freecodecamp.org/)
 
