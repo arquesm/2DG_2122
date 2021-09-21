@@ -46,3 +46,7 @@ Reina Martínez, Eduardo
 Sanchis Albert, Sara Maria
 
 Serralta Bernabeu, Marta
+
+## Pràctiques
+
+1. LlocWeb.
