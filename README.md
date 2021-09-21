@@ -53,3 +53,4 @@ Serralta Bernabeu, Marta
 ## Pràctiques autònomes
 [FreeCodeCamp](https://www.freecodecamp.org/)
 
+## Projecte
