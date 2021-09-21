@@ -3,49 +3,53 @@ Sistemes de representació avançada. EASDAlcoi. 2021/22
 
 ## Alumnes
 
-Almendros Gil, Rubén
+Almendros Gil, Rubén - 
 
-Beneyto García, Inés
+Beneyto García, Inés - beneytoines
 
-Berenguer Germán, Andreu
+Berenguer Germán, Andreu - Andreww01
 
-Cantó Carbonell, Irene
+Cantó Carbonell, Irene - ireneC77
 
-Carrillo Martínez, Teresa
+Carrillo Martínez, Teresa - Teresa7863
 
-Deltell Casanova, Maria
+Deltell Casanova, Maria - MARIAEASD
 
-Devesa Ramis, Maria Lluna
+Devesa Ramis, Maria Lluna - marialluna
 
-Granero Roca, Leia
+Granero Roca, Leia - LeiaGranero
 
-Hernández García, Elena
+Hernández García, Elena - elenahdezga
 
-Jover Ciruelos, Alba
+Jover Ciruelos, Alba - albajota
 
-Leal Pérez, Andrea
+Leal Pérez, Andrea - 
 
-Llopis Alejandre, Eva
+Llopis Alejandre, Eva - llopisae
 
-Martínez Alborch, Andreu
+Martínez Alborch, Andreu - andreueasd
 
-Martínez Reyes, Lydia
+Martínez Reyes, Lydia - lydiamrtz
 
-Martínez Simarro, Lourdes
+Martínez Simarro, Lourdes - lourdesmarss
 
-Merino Campos, Ana
+Merino Campos, Ana - AnaMerinoCampos
 
-Orta Juan, Alejandro
+Orta Juan, Alejandro - Alejandroorta
 
-Pina Alcolea, Mariano
+Pina Alcolea, Mariano - pinaam
 
-Poveda Pérez, Javier
+Poveda Pérez, Javier - JavierPoveda1
 
-Reina Martínez, Eduardo
+Reina Martínez, Eduardo - ReinaEdu
 
-Sanchis Albert, Sara Maria
+Sanchis Albert, Sara Maria - SaraSanchis
 
-Serralta Bernabeu, Marta
+Serralta Bernabeu, Marta - martaserralta
+
+Sirera Monllor, Adrià - Adrisirera
+
+Valero Blanquer, Ainhoa - Ainhoavalero
 
 ## Pràctiques classe
 1. LlocWeb.
