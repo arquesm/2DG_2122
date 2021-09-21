@@ -3,5 +3,6 @@ Sistemes de representació avançada. EASDAlcoi. 2021/22
 
 ## Alumnes
 
-...Almendros Gil, Rubén..
-...Beneyto García, Inés
+Almendros Gil, Rubén
+
+Beneyto García, Inés
