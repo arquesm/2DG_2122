@@ -3,7 +3,7 @@ Sistemes de representació avançada. EASDAlcoi. 2021/22
 
 ## Alumnes
 
-Almendros Gil, Rubén - 
+Almendros Gil, Rubén - rubenalmendros
 
 Beneyto García, Inés - beneytoines
 
@@ -23,7 +23,7 @@ Hernández García, Elena - elenahdezga
 
 Jover Ciruelos, Alba - albajota
 
-Leal Pérez, Andrea - 
+Leal Pérez, Andrea - lealandrea
 
 Llopis Alejandre, Eva - llopisae
 
