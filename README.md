@@ -60,9 +60,9 @@ Valero Blanquer, Ainhoa - Ainhoavalero
 
 2. [Recursos gràfics al llocweb.](https://arquesm.github.io/1_llocweb_2dg/)
 
-* Formats d'imatge adiens a la web i diferències entre ells jpg, gif, png, svg
-* Formats de vídeo
-* Formats d'audio
+* Formats d'imatge adiens a la web i diferències entre ells jpg, gif, png, svg. [tag img](https://www.w3schools.com/tags/tag_img.asp)
+* Formats de vídeo. [Tag video](https://www.w3schools.com/tags/tag_video.asp)
+* Formats d'audio. [Tag audio](https://www.w3schools.com/tags/tag_audio.asp)
 
 
 ## Pràctiques autònomes
