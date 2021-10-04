@@ -52,7 +52,7 @@ Sirera Monllor, Adrià - Adrisirera
 Valero Blanquer, Ainhoa - Ainhoavalero
 
 ## Pràctiques classe
-1. LlocWeb.
+1. [LlocWeb](https://arquesm.github.io/1_llocweb_2dg/).
 
 * Instal·lar complements en el Visual Studio Code.
 * Crear un llocweb i editar un document html en les parts principals (html,head,body) i de text (h1 ,h2 ,p ul, li) a l'editor de codi.
