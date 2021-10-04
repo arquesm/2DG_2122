@@ -58,7 +58,7 @@ Valero Blanquer, Ainhoa - Ainhoavalero
 * Crear un llocweb i editar un document html en les parts principals (html,head,body) i de text (h1 ,h2 ,p ul, li) a l'editor de codi.
 * Crear el perfil de github, crear repositoris i pujar document index.html per convertir-lo en un pàgina web amb el domini que genera la plataforma github.
 
-2. Recursos gràfics al llocweb.
+2. [Recursos gràfics al llocweb.](https://arquesm.github.io/1_llocweb_2dg/)
 
 * Formats d'imatge adiens a la web i diferències entre ells jpg, gif, png, svg
 * Formats de vídeo
